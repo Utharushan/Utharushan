@@ -6,4 +6,3 @@
   [LinkedIn](https://www.linkedin.com/in/tharushan-uthayakumar-2a7007276/),
   Mail : Utharushan@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a strong interest in learning new languages and cultures!
