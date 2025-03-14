@@ -1,18 +1,66 @@
-<h1 align="center">Hi 👋, I'm @Utharushan</h1>
+<h1 align="center">Hi there, I'm Utharushan! 👋</h1>
+<h3 align="center">Data Science | AI | Software Development</h3>
 
-- 👀 I’m interested in data science and AI applications in health and society.
-- 🌱 I’m currently studying at the CPES (Cycle Pluridisciplinaire d'Études Supérieures) in Data Science, a joint program between Université Paris-Saclay, Institut Polytechnique de Paris, and HEC Paris, where I focus on mathematics, statistics, and computer science.\
-  In parallel, I'm also studying at 42 Paris, learning advanced programming in C, Shell scripting, and Git.
-- 😄 I’m looking to collaborate on innovative data science projects that make a positive impact.
-- 📫 How to reach me:
-  [LinkedIn](https://www.linkedin.com/in/utharushan/),
-  Mail: Utharushan@gmail.com
-- ⚡ Fun fact: I have a strong interest in learning new languages and cultures!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utharushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utharushan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/utharushan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Utharushan-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:utharushan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Utharushan@gmail.com-red?style=flat&logo=gmail" alt="Email">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p> 
+---
+
+### 🚀 About Me
+- 🎓 **Studying Data Science** at **CPES - Université Paris-Saclay, IP Paris & HEC Paris**, focusing on **mathematics, statistics, and computer science**.  
+- 🏫 **42 Paris** student, sharpening my skills in **C, Shell scripting, and advanced programming**.  
+- 🔍 Passionate about **AI, machine learning, and data-driven solutions** for **health and society**.  
+- 🤝 Open to **collaborations** on innovative projects with real-world impact.  
+- 🌎 Love learning about **new languages, cultures, and emerging technologies**.  
+
+---
+
+### 🛠️ Tech & Tools I Work With:
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utharushan&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+### 📫 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/utharushan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:utharushan@gmail.com">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="30" width="40"/>
+  </a>
+</p>
