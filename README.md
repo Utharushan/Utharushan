@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Utharushan! 👋</h1>
+<h1 align="center">Hi there, I'm Tharushan! 👋</h1>
 <h3 align="center">Data Science | AI | Software Development</h3>
 
 <p align="center">
