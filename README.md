@@ -6,7 +6,7 @@
      <img src="https://img.shields.io/badge/LinkedIn-Utharushan-blue?style=flat&logo=linkedin" alt="LinkedIn">
    </a>
    <a href="mailto:utharushan@gmail.com">
-     <img src="https://img.shields.io/badge/Email-Utharushan@gmail.com-red?style=flat&logo=gmail" alt="Email">
+     <img src="https://img.shields.io/badge/Email-tharushan.uthayakumar@hec.edu-red?style=flat&logo=gmail" alt="Email">
    </a>
  </p>
  
