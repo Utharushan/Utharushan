@@ -59,7 +59,7 @@
    <a href="https://linkedin.com/in/utharushan" target="_blank">
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
    </a>
-   <a href="mailto:utharushan@gmail.com">
+   <a href="mailto:tharushan.uthayakumar@hec.edu">
      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="30" width="40"/>
    </a>
  </p>
