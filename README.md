@@ -14,7 +14,7 @@
  
  ### 🚀 About Me
  - 🎓 **Studying Data Science** at **CPES - Université Paris-Saclay, Institut Polytechnique de Paris & HEC Paris**, focusing on **mathematics, statistics, and computer science**.  
- - 🏫 **42 Paris** student, sharpening my skills in **C, Shell scripting, and advanced programming**.  
+ - 🏫 Former **42 Paris** student, sharpening my skills in **C, Shell scripting, and advanced programming**.  
  - 🔍 Passionate about **AI, machine learning, and data-driven solutions** for **health and society**.  
  - 🤝 Open to **collaborations** on innovative projects with real-world impact.  
  - 🌎 Love learning about **new languages, cultures, and emerging technologies**.  
